@@ -1,2 +1,3 @@
-# UWCodeBootcamp
-Test repo for bootcamp example.
+# Project 2 Starter
+
+Example project 2 starter repo.
